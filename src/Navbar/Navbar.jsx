@@ -188,7 +188,7 @@ const Navbar = () => {
 
 
                             {/* WhatsApp Icon for Small Screens */}
-                            <a href="https://wa.me/27845604003" target="_blank" rel="noopener noreferrer" className="mt-4">
+                            <a href="https://wa.me/27694299950" target="_blank" rel="noopener noreferrer" className="mt-4">
                                 <FaWhatsapp size={40} className="text-green-600 hover:opacity-75" />
                             </a>
 

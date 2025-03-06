@@ -27,7 +27,7 @@ export default function Contact() {
             platform: "TikTok",
             icon: <SiTiktok size={28} color="#000000" />, // TikTok black
             url: "https://www.tiktok.com/@stigmata031",
-            handle: "Stigmata 03"
+            handle: "Stigmata 031"
         }
     ];
 
@@ -35,14 +35,14 @@ export default function Contact() {
         {
             type: "Email",
             icon: <Mail size={40} color="#C4B5FD" />, // Light purple
-            value: "sadboystig@gmail.com",
-            link: "mailto:sadboystig@gmail.com"
+            value: "Stigmata",
+            link: "mailto:emmanuelmdadane@gmail.com"
         },
         {
             type: "Cellphone",
             icon: <Phone size={40} color="#C4B5FD" />, // Light purple
-            value: "(+27) 81 537 0498",
-            link: "tel:+27815370498"
+            value: "(+27) 694 299950",
+            link: "tel:+27694299950"
         }
     ];
 

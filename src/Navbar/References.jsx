@@ -161,7 +161,7 @@ const References = () => {
                         <p className="mt-2 text-gray-700"><strong>Facebook Page:</strong> Art Of Stigmata</p>
                         <p className="mt-2 text-gray-700"><strong>Instagram:</strong> Stigmata031</p>
                         <p className="mt-2 text-gray-700"><strong>Twitter:</strong> Stigmata ATM</p>
-                        <p className="mt-2 text-gray-700"><strong>TikTok:</strong> Stigmata 03</p>
+                        <p className="mt-2 text-gray-700"><strong>TikTok:</strong> Stigmata 031</p>
                     </div>
 
 
