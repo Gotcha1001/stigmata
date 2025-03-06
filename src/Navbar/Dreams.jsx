@@ -238,7 +238,7 @@ export default function Dreams() {
                                 <FaInstagram size={60} className="text-pink-600 hover:text-pink-700" />
                             </motion.a>
                             <motion.a
-                                href="https://wa.me/+27815370498"
+                                href="https://wa.me/27694299950"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 whileHover={{ scale: 1.2, rotate: -5 }}
