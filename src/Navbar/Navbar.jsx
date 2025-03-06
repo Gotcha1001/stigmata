@@ -250,7 +250,7 @@ const Navbar = () => {
                         </NavLink>
 
                         {/* WhatsApp Icon for Large Screens */}
-                        <a href="https://wa.me/+27815370498" target="_blank" rel="noopener noreferrer">
+                        <a href="https://wa.me/27694299950" target="_blank" rel="noopener noreferrer">
                             <FaWhatsapp size={60} className="ml-4 text-green-600 hover:opacity-75 horizontal-spin" />
                         </a>
 
